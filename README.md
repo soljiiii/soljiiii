@@ -8,7 +8,7 @@
 
   <h5>✏️ SKILL ✏️</h5> <br/>
   <img src="https://img.shields.io/badge/Java-004CFF?style=flat-square&logo=OpenJDK&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Boot-00ED17?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/HTML5-FF0000?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-0077FF?style=flat-square&logo=css3&logoColor=white"/>
